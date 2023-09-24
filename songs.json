@@ -1,0 +1,24 @@
+[
+    {
+        "Californication": {
+            "Released": 1999,
+            "Artist": "Red Hot Chili Peppers",
+            "Genre": "Indie, Rock",
+            "Key": "Am"
+        },
+        "What's wrong with me": {
+            "Released": 2012,
+            "Artist": "Hurray for the Riff Raff",
+            "Genre": "Indie, Country",
+            "Key": "C"
+        },
+        "I want you": {
+            "Released": 1966,
+            "Artist": "Bob Dylan",
+            "Genre": "Classic rock",
+            "Key": "F"
+        }
+       
+      
+    }
+]
